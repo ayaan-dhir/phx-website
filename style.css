@@ -1,7 +1,12 @@
 /* styles.css */
 
+@font-face {
+    font-family: 'Satoshi';
+    src: url('fonts/Satoshi-Black.otf');
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Satoshi';
     margin: 0;
     padding: 0;
     box-sizing: border-box;
