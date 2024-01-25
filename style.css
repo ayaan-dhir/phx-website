@@ -11,7 +11,8 @@ header {
     font-family: 'Satoshi-Bold';
     color: #fff;
     padding: 0.1em;
-    text-align: center;
+    padding-left: 15%;
+    text-align: left;
 }
 
 main {
